@@ -1,7 +1,7 @@
 {
   "confirm": false,
   "versionCode": 1,
-  "versionName": "1.0",
+  "versionName": "1.0.1",
   "apkUrl": "https://github.com/leeshin5757/getout/releases/download/v1/getout.apk",
   "log": "-Thêm nguồn phát\n-Thêm nguồn HighLight\n-Hỗ trợ xem trên thiết bị di động"
 }
