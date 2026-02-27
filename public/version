@@ -1,7 +1,7 @@
 {
   "confirm": false,
   "versionCode": 1,
-  "versionName": "1.0.1",
+  "versionName": "1.0.2",
   "apkUrl": "https://github.com/leeshin5757/getout/releases/download/v1/getout.apk",
-  "log": "-Thêm nguồn phát\n-Thêm nguồn HighLight\n-Hỗ trợ xem trên thiết bị di động"
+  "log": "-Thêm các mục: Bóng rổ, Bóng chuyền, Bida, Tennis...\n-Fix lỗi OTA update\n-Fix lỗi crashApp trên một số model TV\n-Nếu gặp sự cố khi cập nhật, vui lòng tải apk mới nhất tại đường link:\n-https://bom.so/getout\n-Hoặc code Downloader: 9609311"
 }
