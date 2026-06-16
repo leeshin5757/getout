@@ -1,8 +1,7 @@
 {
   "confirm": false,
-  "versionCode": 3,
-  "versionName": "1.0.9",
+  "versionCode": 4,
+  "versionName": "2.9",
   "apkUrl": "https://github.com/leeshin5757/getout/releases/download/v1/getout.apk",
   "sign": "U2FsdGVkX1/8gJ9Oo6UThQGEMFGR7SeADSSsPvI5WPwxMIOzN0RTHxFFrdsvQnP3CVIKZSheL1Lmd8hzNKqU2rd+HhaXY7Y9QUrkk30PXn4QYWmWnsRe+FpEmH0w+Y3o",
-  "log": "-Tổng hợp lại nguồn phát\n-Cập nhật giao diện\n-Chế độ chat realtime tất cả các kênh\n-Nếu gặp sự cố khi cập nhật, vui lòng tải apk tại đường link:\n-https://bom.so/getout\n-Hoặc code Downloader: 9609311"
-}
+  "log": "+ Mục xen truyền hình\n+ Đề xuất kênh yêu thích\n+ TiếuLâmTV\n* Nếu gặp sự cố khi cập nhật, vui lòng tải apk tại đường link:\n- https://bom.so/getout\n- Hoặc code Downloader: 9609311"
