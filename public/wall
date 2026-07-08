@@ -1,45 +1,44 @@
-
 {
   "wall": [
     {
-      "title": "Thể Thao",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=1"
+      "title": "Dragon",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/dragon.webp"
     },
     {
-      "title": "Phim Truyện",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=2"
+      "title": "Kill Bill",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/killbill.webp"
     },
     {
-      "title": "Thiếu Nhi",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=3"
+      "title": "Night",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/night.webp"
     },
     {
-      "title": "Âm Nhạc",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=4"
+      "title": "Span1",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/span1.webp"
     },
     {
-      "title": "Khám Phá",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=5"
+      "title": "Span2",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/span2.webp"
     },
     {
-      "title": "Tin Tức",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=6"
+      "title": "Span3",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/span3.webp"
     },
     {
-      "title": "VTV",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=7"
+      "title": "Span4",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/span4.webp"
     },
     {
-      "title": "VTVCab",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=8"
+      "title": "Span5",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/span5.webp"
     },
     {
-      "title": "SCTV",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=9"
+      "title": "Span6",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/span6.webp"
     },
     {
-      "title": "HTV - TP.HCM",
-      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=10"
+      "title": "Span7",
+      "poster": "https://raw.githubusercontent.com/leeshin5757/getout/main/public/logo/span7.webp"
     }
   ]
 }
