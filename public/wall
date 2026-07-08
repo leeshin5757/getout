@@ -1,0 +1,45 @@
+
+{
+  "wall": [
+    {
+      "title": "Thể Thao",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=1"
+    },
+    {
+      "title": "Phim Truyện",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=2"
+    },
+    {
+      "title": "Thiếu Nhi",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=3"
+    },
+    {
+      "title": "Âm Nhạc",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=4"
+    },
+    {
+      "title": "Khám Phá",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=5"
+    },
+    {
+      "title": "Tin Tức",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=6"
+    },
+    {
+      "title": "VTV",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=7"
+    },
+    {
+      "title": "VTVCab",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=8"
+    },
+    {
+      "title": "SCTV",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=9"
+    },
+    {
+      "title": "HTV - TP.HCM",
+      "poster": "https://api.dicebear.com/7.x/adventurer/png?seed=10"
+    }
+  ]
+}
