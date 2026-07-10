@@ -1,8 +1,8 @@
 {
   "confirm": false,
-  "versionCode": 4,
-  "versionName": "2.0",
+  "versionCode": 5,
+  "versionName": "2.end",
   "apkUrl": "https://github.com/leeshin5757/getout/releases/download/v1/getout.apk",
   "sign": "U2FsdGVkX1/8gJ9Oo6UThQGEMFGR7SeADSSsPvI5WPwxMIOzN0RTHxFFrdsvQnP3CVIKZSheL1Lmd8hzNKqU2rd+HhaXY7Y9QUrkk30PXn4QYWmWnsRe+FpEmH0w+Y3o",
-  "log": "+ Mục xen truyền hình\n+ Đề xuất kênh yêu thích\n+ TiếuLâmTV\n* Nếu gặp sự cố khi cập nhật, vui lòng tải apk tại đường link:\n- https://bom.so/getout\n- Hoặc code Downloader: 9609311"
+  "log": "+ Hỗ trợ gọi kênh bằng giọng nói qua ứng dụng MapVoice(https://bom.so/mapvoice)\n+ Nhấn phím số hoạt động khi vào ứng dụng\n+ Ảnh nền tùy chọn\n+ Fix một số lỗi khác\n* Các phiên bản cũ hơn sẽ dừng hoạt động vào tháng 8/2026\n ❤️ The End ❤️"
 }
