@@ -4,5 +4,5 @@
   "versionName": "2.end",
   "apkUrl": "https://github.com/leeshin5757/getout/releases/download/v1/getout.apk",
   "sign": "U2FsdGVkX1/8gJ9Oo6UThQGEMFGR7SeADSSsPvI5WPwxMIOzN0RTHxFFrdsvQnP3CVIKZSheL1Lmd8hzNKqU2rd+HhaXY7Y9QUrkk30PXn4QYWmWnsRe+FpEmH0w+Y3o",
-  "log": "* Nếu bạn nhìn thấy thông báo này, vui lòng nâng cấp lên phiên bản cuối cùng. Mã download: 9609311\n* Mở Cài đặt -> Chọn nguồn hiển thị -> Tắt các nguồn không còn hoạt động (Hội Quán, Khán Đài A, Bù Giờ, Tam Quốc, Quê Choa, XayCon) để tăng tốc độ load trang\n* Các phiên bản cũ hơn sẽ dừng hoạt động vào tháng 8/2026\n ❤️ The End ❤️"
+  "log": "* Vui lòng nâng cấp lên phiên bản cuối cùng. Mã download: 9609311\n* Mở Cài đặt -> Chọn nguồn hiển thị -> Tắt các nguồn không còn hoạt động: Hội Quán, Khán Đài A, Bù Giờ, Tam Quốc, Quê Choa, XayCon,...\n* Thử bật 1.1.1.1 nếu nguồn phát bị treo hoặc không hiển thị\n* Các phiên bản cũ hơn sẽ dừng hoạt động vào tháng 8/2026\n ❤️ The End ❤️"
 }
