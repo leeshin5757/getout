@@ -1,8 +1,9 @@
 {
   "confirm": false,
-  "versionCode": 8,
+  "versionCode": 9,
   "versionName": "V.I.P",
-  "apkUrl": "https://github.com/leeshin5757/getout/releases/download/v1/getout.apk",
+  "apkUrl": "https://github.com/leeshin5757/getout/releases/download/v1/getout_vip.apk",
   "sign": "U2FsdGVkX18RNsQqKybd5yQWBPipklcyRE96Lx2ockYSmz1hkveDXR3MgzCazPFMYevrDliwf61T3Hz5ZuukCTGUJxXOiSWBgcDsX0/9OsoaWaLG+Ih02T+g/S2dKpL6",
-  "log": "+ Bản vá lỗi, sửa những lỗi nghiêm trọng\n+ Người dùng Donate có thể cập nhật thêm nguồn và các bản vá khác\n* Mã download: 9609311\n"
+  "log": "* Bản cập nhật dành cho người dùng Donate.\n+ Thêm các nguồn phát: Gà Vàng, Saoke, Phá Làng...nhiều nguồn phát chất lượng Full HD.\n+ Fix lỗi chế độ PIP, xem 2 trận đấu cùng lúc.\n+ Fix lỗi xem mục Chat trùng lặp.\n+ Một số kênh thể thao như: SkySport F1, SkySport Tennis....có thể xem đc nhưng chưa ổn định\n* Link download: https://bom.so/getoutvip\n* Mã download: 4146431\n"
 }
+
