@@ -1,0 +1,182 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/giovang.dex",
+        "status": true,
+        "version": 1,
+        "name": "Giờ Vàng",
+        "className": "GioVang",
+        "type": "Sport",
+        "sha256": "636F459858A628C01F93A63D48D19261DE7700B41473AD0E8F88ACCF484148AD"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/cola.dex",
+        "status": true,
+        "version": 1,
+        "name": "CoLa",
+        "className": "CoLaTV",
+        "type": "Sport",
+        "sha256": "0B9FCFC74D7A68960C171382FFA701E239E672B4BDACA6E69D501A101B5B389E"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/chuoichien.dex",
+        "status": true,
+        "version": 1,
+        "name": "Chuối Chiên",
+        "className": "ChuoiChien",
+        "type": "Sport",
+        "sha256": "225227BE3696872879946D655188CA0CF8F459E81FB98E9D4262D9CB8963DC8B"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/gavang33.dex",
+        "status": true,
+        "version": 1,
+        "name": "Gà Vàng 333",
+        "className": "GaVang333",
+        "type": "Sport",
+        "sha256": "E0490D81A02A3ACBEC90D12539782AC3215C867E82E596900D9264F39A53BEB9"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/biaom.dex",
+        "status": true,
+        "version": 1,
+        "name": "Bia Ôm",
+        "className": "BiaOm",
+        "type": "Sport",
+        "sha256": "757D5D981A55586006FC19797F05AD3E237F730AC7556586D722CCE38291968F"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/changtv.dex",
+        "status": true,
+        "version": 1,
+        "name": "Choáng",
+        "className": "ChangTV",
+        "type": "Sport",
+        "sha256": "9B2AF6DADFEE2132AF903D8A49C5D7A914F297CDEBB6578B01092CFAE6209979"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/gavang24.dex",
+        "status": true,
+        "version": 1,
+        "name": "Gà Vàng 24h",
+        "className": "GaVang24",
+        "type": "Sport",
+        "sha256": "BC0DC0E65FA10C2C584C107CDCCB3533BE1549FEC901FB3BB96BD60122AA0E15"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/khoga.dex",
+        "status": true,
+        "version": 1,
+        "name": "Khô Gà",
+        "className": "KhoGa",
+        "type": "Sport",
+        "sha256": "7A19F3DE629CA4322090CE6C011AAA2E0EACECCE53484D40EAF1B197349AFE5D"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/nembien.dex",
+        "status": true,
+        "version": 1,
+        "name": "Ném Biên",
+        "className": "NemBien",
+        "type": "Sport",
+        "sha256": "9AD16C2F80357BAF77F0DAD87706F11864EAA6C88A0D2DF020B57B00BCE5E6D8"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/phalang.dex",
+        "status": true,
+        "version": 1,
+        "name": "Pha Lang",
+        "className": "PhaLang",
+        "type": "Sport",
+        "sha256": "D83D543EE5E816A5C0CA420F72F1F4B7456844A532CEDFBF1F4C9BD5C91AD48D"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/saoke.dex",
+        "status": true,
+        "version": 1,
+        "name": "SaoKe",
+        "className": "SaoKe",
+        "type": "Sport",
+        "sha256": "723AECDF5B2004635479E09353C9DA2D87BAF52CD6246F663C0205A814AA6CF6"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/s8.dex",
+        "status": true,
+        "version": 1,
+        "name": "S8",
+        "className": "S8TV",
+        "type": "Sport",
+        "sha256": "DE38943B6FAAE06DA33D733B9F57C1093E3F3510CD21248F6C2DF454DF475BEC"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/socolive.dex",
+        "status": true,
+        "version": 1,
+        "name": "SoCoLive",
+        "className": "SoCoLive",
+        "type": "Sport",
+        "sha256": "E7FDBFEAB667436BFA91576AE4C9F994CA0759F64FEFA0B9ED72F29E4D85DBE5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/vsc.dex",
+        "status": true,
+        "version": 1,
+        "name": "VSC",
+        "className": "VSC",
+        "type": "Sport",
+        "sha256": "65369794A5412F944FB7BD171383610BECD3E0101E84B3F96B2862BF7857D672"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/xoigac.dex",
+        "status": true,
+        "version": 1,
+        "name": "Xôi Gấc",
+        "className": "XoiGac",
+        "type": "Sport",
+        "sha256": "C7E4DD4F733EAB2B61752BF4D00FF7BC4048DF1D1286B31074E401121ED0AB85"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/xoilac.dex",
+        "status": true,
+        "version": 1,
+        "name": "Xôi Lạc",
+        "className": "XoiLac",
+        "type": "Sport",
+        "sha256": "744D22796FE479207A12ED299B680155F6E4F2CF2E7A5B6A71074F53135B1F55"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/btv.dex",
+        "status": true,
+        "version": 1,
+        "name": "BTV",
+        "className": "BTV",
+        "type": "Sport",
+        "sha256": "72E06E3EA36EAF8881E6B748CB25E9048CE4C82D42B02BCAFAC9DC90CA0D3001"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/review.dex",
+        "status": true,
+        "version": 1,
+        "name": "Xem Lại",
+        "className": "ReView",
+        "type": "HighLight",
+        "sha256": "04AA855F9B433401261BC2C12B0D8FD74DCF0202B7AA4B20DAAD557AD2B2BC09"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/onplus.dex",
+        "status": true,
+        "version": 1,
+        "name": "OnPlus",
+        "className": "OnPlus",
+        "type": "HighLight",
+        "sha256": "7942288960FCF22E51EB29ED57F5FE4777F382FC4774DAE0A8EB033ED734446B"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/tvapp.dex",
+        "status": true,
+        "version": 1,
+        "name": "TVApp",
+        "className": "TVApp",
+        "type": "TV",
+        "sha256": "F1044E1158BA5BDA8A5FC16D437378DBE1BF906449D371F07BF70EF82B2427BA"
+    }
+]
