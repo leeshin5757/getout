@@ -163,7 +163,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin575757/getout/main/module/onplus.dex",
-        "status": true,
+        "status": false,
         "version": 1,
         "name": "OnPlus",
         "className": "OnPlus",
