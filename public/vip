@@ -3,6 +3,6 @@
   "versionCode": 14,
   "versionName": "VIP+F",
   "apkUrl": "https://github.com/leeshin575757/getout/releases/download/v1/getout.apk",
-  "sign": "U2FsdGVkX1+dVzaH/+lDiAgiu/0oX0LTmQyPcyOwgGl9ZytL4GTQqdcqhCq1K8Be",
+  "sign": "U2FsdGVkX18RNsQqKybd5yQWBPipklcyRE96Lx2ockYSmz1hkveDXR3MgzCazPFMYevrDliwf61T3Hz5ZuukCTGUJxXOiSWBgcDsX0/9OsoaWaLG+Ih02T+g/S2dKpL6",
   "log": "+ Fix lỗi load module trên Android 14.\n+ Thanh tiêu đề mới.\n+ Nâng cấp hệ thống Modules giúp việc chỉnh sửa, cập nhật các nguồn phát dễ dàng hơn.\n* Quý người dùng vui lòng cập nhật lên phiên bản mới nhất để tiếp tục đc hỗ trợ và sử dụng lâu dài.\n* Link download: https://bom.so/getout\n* Mã download: 9609311\n"* Rất xin lỗi quý người dùng về nhứng sự cố update vừa qua!!!\n"
 }
