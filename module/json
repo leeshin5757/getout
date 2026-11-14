@@ -47,11 +47,11 @@
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/changtv.dex",
         "status": true,
-        "version": 1,
+        "version": 2,
         "name": "Choáng",
         "className": "ChangTV",
         "type": "Sport",
-        "sha256": "9B2AF6DADFEE2132AF903D8A49C5D7A914F297CDEBB6578B01092CFAE6209979"
+        "sha256": "5B56D4D4ACA1D40ABC045E38A675AAD51ED338E34C6A544AE533B0B00DD18ABA"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/gavang24.dex",
@@ -160,6 +160,15 @@
         "className": "ReView",
         "type": "HighLight",
         "sha256": "04AA855F9B433401261BC2C12B0D8FD74DCF0202B7AA4B20DAAD557AD2B2BC09"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/highlight.dex",
+        "status": true,
+        "version": 1,
+        "name": "HighLightXL",
+        "className": "HighLightXL",
+        "type": "HighLight",
+        "sha256": "C28F1EB10770F1067CFF04DF2FEACC4A9134363AA4937F68112AB5C366D47DF0"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/onplus.dex",
