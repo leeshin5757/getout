@@ -83,11 +83,11 @@
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/phalang.dex",
         "status": true,
-        "version": 1,
+        "version": 2,
         "name": "Pha Lang",
         "className": "PhaLang",
         "type": "Sport",
-        "sha256": "D83D543EE5E816A5C0CA420F72F1F4B7456844A532CEDFBF1F4C9BD5C91AD48D"
+        "sha256": "5E73A9AACC1B2AC35C3DEEE638C689DBDDDFB195DB99B9DAF81DC9BBD0A987D4"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/saoke.dex",
@@ -101,11 +101,11 @@
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/s8.dex",
         "status": true,
-        "version": 1,
+        "version": 2,
         "name": "S8",
         "className": "S8TV",
         "type": "Sport",
-        "sha256": "DE38943B6FAAE06DA33D733B9F57C1093E3F3510CD21248F6C2DF454DF475BEC"
+        "sha256": "E236E31632701C25E90CE735186A24D9774F835C7891B6A53E6BE821A4D610C5"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/socolive.dex",
@@ -151,6 +151,15 @@
         "className": "BTV",
         "type": "Sport",
         "sha256": "72E06E3EA36EAF8881E6B748CB25E9048CE4C82D42B02BCAFAC9DC90CA0D3001"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/antlive.dex",
+        "status": true,
+        "version": 1,
+        "name": "AntLive",
+        "className": "AntLive",
+        "type": "Sport",
+        "sha256": "0E75C5625BD748BA572A9F6002C24D4FA0107FC35CDE18C4AF5B1B66BE68AF83"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/review.dex",
