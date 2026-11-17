@@ -56,11 +56,11 @@
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/gavang24.dex",
         "status": true,
-        "version": 1,
+        "version": 2,
         "name": "Gà Vàng 24h",
         "className": "GaVang24",
         "type": "Sport",
-        "sha256": "BC0DC0E65FA10C2C584C107CDCCB3533BE1549FEC901FB3BB96BD60122AA0E15"
+        "sha256": "5E0D90004343AF22DB9961B148E1703C52E7E2E2AF8B8DD24D254EEB6BFE0A29"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/khoga.dex",
@@ -137,11 +137,11 @@
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/xoilac.dex",
         "status": true,
-        "version": 1,
+        "version": 2,
         "name": "Xôi Lạc",
         "className": "XoiLac",
         "type": "Sport",
-        "sha256": "744D22796FE479207A12ED299B680155F6E4F2CF2E7A5B6A71074F53135B1F55"
+        "sha256": "E65F2318BBEF8B5334FDFADA0725DCC0655E289B23515136C7F85DCB528BC82F"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/btv.dex",
