@@ -153,6 +153,15 @@
         "sha256": "72E06E3EA36EAF8881E6B748CB25E9048CE4C82D42B02BCAFAC9DC90CA0D3001"
     },
     {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/trada.dex",
+        "status": true,
+        "version": 1,
+        "name": "Trà Đá",
+        "className": "TraDa",
+        "type": "Sport",
+        "sha256": "BC18CD2D4ADD83000B44A2FFB3E2740D20B075429BCDF359C3625A4BB445A804"
+    },
+    {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/antlive.dex",
         "status": true,
         "version": 1,
