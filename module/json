@@ -128,11 +128,11 @@
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/vsc.dex",
         "status": true,
-        "version": 2,
+        "version": 3,
         "name": "VSC",
         "className": "VSC",
         "type": "Sport",
-        "sha256": "BF107A206D03CE28ADCA3D5EE13BAB96640C6969EEE7771D5B125887678D05EC"
+        "sha256": "1FE3EBC1D0979D32EB08616C26413546409914033BA7189AC0F83D1FA04E6263"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/xoigac.dex",
