@@ -128,11 +128,11 @@
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/saoke.dex",
         "status": true,
-        "version": 1,
+        "version": 2,
         "name": "SaoKe",
         "className": "SaoKe",
         "type": "Sport",
-        "sha256": "723AECDF5B2004635479E09353C9DA2D87BAF52CD6246F663C0205A814AA6CF6"
+        "sha256": "0F563E90A9B11734B547B5C3D37FAB8CE0684B56AD19F8B31FE2F2A8D3BCDC8B"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/s8.dex",
