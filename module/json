@@ -45,15 +45,6 @@
         "sha256": "CEF83B6D61849D6559CB107FE27AB628B9F16981E44448516E296FFB908F712F"
     },
     {
-        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/biaom.dex",
-        "status": true,
-        "version": 2,
-        "name": "Bia Ôm",
-        "className": "BiaOm",
-        "type": "Sport",
-        "sha256": "C3158790BD8D240BCA11318B57549AEE1A51D06AE510310D38CEA2FAD944F555"
-    },
-    {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/xoilac.dex",
         "status": true,
         "version": 2,
@@ -79,6 +70,15 @@
         "className": "KLive",
         "type": "Sport",
         "sha256": "900A0DD5BE2694635D8735E241276FB75EA49B4AD76F84AC7A42DF4B1177F3DF"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/biaom.dex",
+        "status": true,
+        "version": 2,
+        "name": "Bia Ôm",
+        "className": "BiaOm",
+        "type": "Sport",
+        "sha256": "C3158790BD8D240BCA11318B57549AEE1A51D06AE510310D38CEA2FAD944F555"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/gavang33.dex",
