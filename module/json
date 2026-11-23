@@ -45,6 +45,15 @@
         "sha256": "CEF83B6D61849D6559CB107FE27AB628B9F16981E44448516E296FFB908F712F"
     },
     {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/biaom.dex",
+        "status": true,
+        "version": 2,
+        "name": "Bia Ôm",
+        "className": "BiaOm",
+        "type": "Sport",
+        "sha256": "C3158790BD8D240BCA11318B57549AEE1A51D06AE510310D38CEA2FAD944F555"
+    },
+    {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/xoilac.dex",
         "status": true,
         "version": 2,
@@ -54,6 +63,24 @@
         "sha256": "E65F2318BBEF8B5334FDFADA0725DCC0655E289B23515136C7F85DCB528BC82F"
     },
     {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/changtv.dex",
+        "status": true,
+        "version": 2,
+        "name": "Choáng",
+        "className": "ChangTV",
+        "type": "Sport",
+        "sha256": "5B56D4D4ACA1D40ABC045E38A675AAD51ED338E34C6A544AE533B0B00DD18ABA"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/klive.dex",
+        "status": true,
+        "version": 1,
+        "name": "K-Live",
+        "className": "KLive",
+        "type": "Sport",
+        "sha256": "900A0DD5BE2694635D8735E241276FB75EA49B4AD76F84AC7A42DF4B1177F3DF"
+    },
+    {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/gavang33.dex",
         "status": true,
         "version": 1,
@@ -61,15 +88,6 @@
         "className": "GaVang333",
         "type": "Sport",
         "sha256": "E0490D81A02A3ACBEC90D12539782AC3215C867E82E596900D9264F39A53BEB9"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/biaom.dex",
-        "status": true,
-        "version": 2,
-        "name": "Bia Ôm",
-        "className": "BiaOm",
-        "type": "Sport",
-        "sha256": "C3158790BD8D240BCA11318B57549AEE1A51D06AE510310D38CEA2FAD944F555"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/gavang24.dex",
@@ -162,15 +180,6 @@
         "sha256": "0E75C5625BD748BA572A9F6002C24D4FA0107FC35CDE18C4AF5B1B66BE68AF83"
     },
     {
-        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/changtv.dex",
-        "status": true,
-        "version": 2,
-        "name": "Choáng",
-        "className": "ChangTV",
-        "type": "Sport",
-        "sha256": "5B56D4D4ACA1D40ABC045E38A675AAD51ED338E34C6A544AE533B0B00DD18ABA"
-    },
-    {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/review.dex",
         "status": true,
         "version": 2,
@@ -178,6 +187,15 @@
         "className": "ReView",
         "type": "HighLight",
         "sha256": "C0CE16A28AF0AE85CFE94ACE201403ED19217170BBF6F33523D85FE305994E09"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/review2.dex",
+        "status": true,
+        "version": 1,
+        "name": "Xem Lại - TV",
+        "className": "ReView2",
+        "type": "HighLight",
+        "sha256": "AECF304160AC411496D02EEFB62C41C59F908F21660CD975F8B7507C393F2850"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/highlight.dex",
