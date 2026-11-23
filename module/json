@@ -101,11 +101,11 @@
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/khoga.dex",
         "status": true,
-        "version": 1,
+        "version": 2,
         "name": "Khô Gà",
         "className": "KhoGa",
         "type": "Sport",
-        "sha256": "7A19F3DE629CA4322090CE6C011AAA2E0EACECCE53484D40EAF1B197349AFE5D"
+        "sha256": "FF36585F7BF0D45F02897B0DD4D6FF3915170A9304C09CBE095F6086FCB01896"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/nembien.dex",
