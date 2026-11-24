@@ -1,5 +1,5 @@
 {
-  "confirm": false,
+  "confirm": true,
   "versionCode": 14,
   "versionName": "VIP+F",
   "apkUrl": "https://github.com/leeshin5757/getout/releases/download/v1/getout.apk",
