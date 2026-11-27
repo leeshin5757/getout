@@ -92,11 +92,11 @@
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/gavang24.dex",
         "status": true,
-        "version": 2,
+        "version": 3,
         "name": "Gà Vàng 24h",
         "className": "GaVang24",
         "type": "Sport",
-        "sha256": "5E0D90004343AF22DB9961B148E1703C52E7E2E2AF8B8DD24D254EEB6BFE0A29"
+        "sha256": "7736A8D4F708AB11681858DBD2DE21B9A3B3A8304769EF7800479DDD3444221E"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/khoga.dex",
