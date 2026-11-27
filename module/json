@@ -163,7 +163,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/trada.dex",
-        "status": true,
+        "status": false,
         "version": 1,
         "name": "Trà Đá",
         "className": "TraDa",
