@@ -1,14 +1,5 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/giovang.dex",
-        "status": true,
-        "version": 2,
-        "name": "Giờ Vàng",
-        "className": "GioVang",
-        "type": "Sport",
-        "sha256": "6000FF9EB65FBCF711F020AC7838043C9EE5864A7593CFA52A01FE3E51BFBA54"
-    },
-    {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/cola.dex",
         "status": true,
         "version": 1,
@@ -27,15 +18,6 @@
         "sha256": "E7FDBFEAB667436BFA91576AE4C9F994CA0759F64FEFA0B9ED72F29E4D85DBE5"
     },
     {
-        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/chuoichien.dex",
-        "status": true,
-        "version": 2,
-        "name": "Chuối Chiên",
-        "className": "ChuoiChien",
-        "type": "Sport",
-        "sha256": "E970CF896D8B1C33BCDE012C5AB218CCA93848C756EA8B0E89423CCA2C33BD1E"
-    },
-    {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/btv.dex",
         "status": true,
         "version": 2,
@@ -43,15 +25,6 @@
         "className": "BTV",
         "type": "Sport",
         "sha256": "CEF83B6D61849D6559CB107FE27AB628B9F16981E44448516E296FFB908F712F"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/xoilac.dex",
-        "status": true,
-        "version": 2,
-        "name": "Xôi Lạc",
-        "className": "XoiLac",
-        "type": "Sport",
-        "sha256": "E65F2318BBEF8B5334FDFADA0725DCC0655E289B23515136C7F85DCB528BC82F"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/changtv.dex",
@@ -178,6 +151,33 @@
         "className": "AntLive",
         "type": "Sport",
         "sha256": "0E75C5625BD748BA572A9F6002C24D4FA0107FC35CDE18C4AF5B1B66BE68AF83"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/chuoichien.dex",
+        "status": true,
+        "version": 3,
+        "name": "Chuối Chiên",
+        "className": "ChuoiChien",
+        "type": "Sport",
+        "sha256": "CB9AD62CABE1CB6DF2D1701680DC6278B2F0FF1D9A68FF9745946497512473F8"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/giovang.dex",
+        "status": true,
+        "version": 3,
+        "name": "Giờ Vàng",
+        "className": "GioVang",
+        "type": "Sport",
+        "sha256": "B89A708A0D57ED1C3BA4A19A5ECDC033A5D7A7C15D768E76C2DB00092AF0A5BF"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/xoilac.dex",
+        "status": true,
+        "version": 3,
+        "name": "Xôi Lạc",
+        "className": "XoiLac",
+        "type": "Sport",
+        "sha256": "DFB0C816932AAAC2BA6E7DBAB29450B071EFDD2CE0F37B8EE4CF0D6A0F15412"
     },
     {
         "url": "https://raw.githubusercontent.com/leeshin5757/getout/main/module/review.dex",
